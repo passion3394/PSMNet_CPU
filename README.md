@@ -3,4 +3,5 @@ python submission.py --maxdisp 192 \
     --KITTI 2015 \
     --datapath (KITTI 2015 test data folder) \
     --loadmodel (finetuned PSMNet) \
+	--save_path (save path) \
 	--no-cuda
