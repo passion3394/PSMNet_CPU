@@ -1,4 +1,4 @@
-python submission.py --maxdisp 192 \
+python submission_cpu.py --maxdisp 192 \
     --model stackhourglass \
     --KITTI 2015 \
     --datapath (KITTI 2015 test data folder) \
